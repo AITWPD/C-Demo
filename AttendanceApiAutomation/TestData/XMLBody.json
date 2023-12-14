@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <submissionData>
+      <element>
+         <attendances>
+            <element>
+               <attendanceCode>\</attendanceCode>
+               <value>10</value>
+            </element>
+            <element>
+               <attendanceCode>/</attendanceCode>
+               <value>20</value>
+            </element>
+            <element>
+               <attendanceCode>B</attendanceCode>
+               <value>10</value>
+            </element>
+            <element>
+               <attendanceCode>C</attendanceCode>
+               <value>10</value>
+            </element>
+         </attendances>
+         <date>2020-09-09T00:00:00.0000000+00:00</date>
+         <ncYearGroup>E1</ncYearGroup>
+         <schoolSession>AM</schoolSession>
+      </element>
+   </submissionData>
+   <urn>109588</urn>
+</root>

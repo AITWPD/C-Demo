@@ -1,0 +1,552 @@
+{
+  "urn": 109588,
+  "totalNoOfPupils": 123,
+  "submissionData": [
+    {
+      "ncYearGroup": "E1",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "#",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "E2",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "N1",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "N2",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "R",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "1",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "2",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "3",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "4",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "5",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "6",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "7",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "8",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "9",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "10",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "11",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "12",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "13",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "14",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "M",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    },
+    {
+      "ncYearGroup": "X",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+
+        {
+          "attendanceCode": "\\",
+          "value": 10
+        },
+        {
+          "attendanceCode": "/",
+          "value": 20
+        },
+
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "L",
+          "value": 20
+        }
+      ]
+
+    }
+  ]
+}

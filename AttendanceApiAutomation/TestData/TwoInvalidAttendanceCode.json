@@ -1,0 +1,115 @@
+{
+  "urn": 109588,
+  "totalNoOfPupils": 123,
+  "submissionData": [
+    {
+      "ncYearGroup": "E1",
+      "date": "2020-09-09T00:00:00.0000000+00:00",
+      "schoolSession": "AM",
+      "attendances": [
+        [
+          {
+            "attendanceCode": "ZZ",
+            "value": 10
+          },
+          {
+            "attendanceCode": "/",
+            "value": 20
+          },
+          {
+            "attendanceCode": "B",
+            "value": 20
+          },
+          {
+            "attendanceCode": "C",
+            "value": 20
+          },
+          {
+            "attendanceCode": "D",
+            "value": 20
+          },
+          {
+            "attendanceCode": "E",
+            "value": 20
+          },
+          {
+            "attendanceCode": "G",
+            "value": 20
+          },
+          {
+            "attendanceCode": "H",
+            "value": 20
+          },
+          {
+            "attendanceCode": "I",
+            "value": 20
+          },
+          {
+            "attendanceCode": "J",
+            "value": 20
+          },
+          {
+            "attendanceCode": "L",
+            "value": 20
+          },
+          {
+            "attendanceCode": "M",
+            "value": 20
+          },
+          {
+            "attendanceCode": "YY",
+            "value": 12
+          },
+          {
+            "attendanceCode": "O",
+            "value": 20
+          },
+          {
+            "attendanceCode": "P",
+            "value": 20
+          },
+          {
+            "attendanceCode": "R",
+            "value": 20
+          },
+          {
+            "attendanceCode": "S",
+            "value": 20
+          },
+          {
+            "attendanceCode": "T",
+            "value": 20
+          },
+          {
+            "attendanceCode": "U",
+            "value": 20
+          },
+          {
+            "attendanceCode": "V",
+            "value": 20
+          },
+          {
+            "attendanceCode": "W",
+            "value": 20
+          },
+          {
+            "attendanceCode": "X",
+            "value": 10
+          },
+          {
+            "attendanceCode": "Y",
+            "value": 20
+          },
+          {
+            "attendanceCode": "Z",
+            "value": 20
+          },
+          {
+            "attendanceCode": "#",
+            "value": 10
+          }
+        ]
+      ]
+    }
+  ]
+}

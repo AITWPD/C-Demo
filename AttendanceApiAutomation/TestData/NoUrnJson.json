@@ -1,0 +1,21 @@
+{
+  "urn":,
+  "totalNoOfPupils": 123,
+  "submissionData": [
+    {
+      "ncYearGroup": "E2",
+      "date": "2020-09-25T14:14:06.1442394Z",
+      "schoolSession": "AM",
+      "attendances1": [
+        {
+          "attendanceCode": "B",
+          "value": 10
+        },
+        {
+          "attendanceCode": "C",
+          "value": 20
+        }
+      ]
+    }
+  ]
+}
